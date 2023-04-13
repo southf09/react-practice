@@ -1,3 +1,5 @@
-# react-practice
+# Mini Apps in the Folder include:
 
-## Please disregard this repository, it used for the express purpose of practicing React
+### JSX
+
+### API

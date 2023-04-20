@@ -15,4 +15,5 @@
 - HTTP Requests in React
 - Async/Await in React
 - Using the Unsplash API
+- Data flow from sibling -> parent -> sibling
 
